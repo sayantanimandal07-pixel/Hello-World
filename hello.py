@@ -1,4 +1,4 @@
-print("Hello World")
+print("My First GitHub Repository")
 
 text = input("Enter a string: ")
 reverse = text[::-1]
